@@ -9,8 +9,8 @@
 <br>
 Exercise 3
 <br><br>
-Create Table from <a href="https://swapi.co/api/planets/" target="_blank">Swapi</a>.
-Add field for filtering data from table.
+<p>Create Table from <a href="https://swapi.co/api/planets/" target="_blank">Swapi</a>.</p>
+<p>Add field for filtering data from table.</p>
 <br><br><br>
 edited by https://arifpujin.com
 email : <a href="mailto:arifpujinugroho@gmail.com" target="_blank">arifpujinugroho@gmail.com</a>
